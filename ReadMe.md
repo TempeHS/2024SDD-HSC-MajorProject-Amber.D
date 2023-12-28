@@ -5,4 +5,4 @@ More details to be added later
 ## [Product Backlog](/productBacklog.md)
 Click title link for backlog
 
-## Agile Artifact
+## Agile Artifacts
