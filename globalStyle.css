@@ -1,0 +1,13 @@
+body {
+    background-color: lightyellow;
+}
+.btn {
+    margin-top:50px;
+    font-family: Helvetica, sans-serif;
+    background-color: lightgrey;
+}
+
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-size: 40px;
+}
